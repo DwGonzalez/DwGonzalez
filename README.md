@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+
+### What's Up 👋
+
+- My name is Darwin, I'm a software developer based on the Dominican Republic 🌴 :dominican_republic:.
+- 📫 You can reach me at: darwinmanuel1@hotmail.com (original right?)
+
+
 <!--
 **DwGonzalez/DwGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
