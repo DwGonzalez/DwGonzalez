@@ -1,10 +1,10 @@
-### Hi there 👋
-
-
-
 ### What's Up 👋
+<!--
+### Hi there 👋
+-->
 
-- My name is Darwin, I'm a software developer based on the Dominican Republic 🌴 :dominican_republic:.
+- My name is *Darwin*, I'm a software developer based on the Dominican Republic 🌴 :dominican_republic:.
+- 🌱 I’m currently learning Nodejs.
 - 📫 You can reach me at: darwinmanuel1@hotmail.com (original right?)
 
 
